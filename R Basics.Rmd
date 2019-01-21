@@ -1,0 +1,33 @@
+---
+title: "R Basics"
+author: "Sanjay Sane"
+date: "21 January 2019"
+output:
+  html_document: default
+  word_document: default
+---
+
+#Lab Exercises
+1. Subset the dataset **Orders** in the folder datasets to create a dataset with only "Online" payment.
+```{r}
+ords <- read.csv("F:/R Course/Datasets/Orders.csv")
+ss1 <- subset(ords,Payment.Terms == "Online")
+head(ss1)
+```
+
+2. Consider the dataset mtcars. Output (write) the data in this data set into a csv file and name the csv file as mtcars.csv.
+```{r}
+write.csv(mtcars,"F:/mtcars.csv")
+```
+
+3. Consider the dataset diamonds in the folder datasets. Subset the dataset with criteria as cut=Premium and color=J
+```{r}
+library("ggplot2")
+data("diamonds")
+PremJ <- subset(diamonds, cut == "Premium" & color=="J")
+head(PremJ)
+```
+
+
+You can visit the blog on [github](https://github.com/sanjayssane/Probability-Distributions)
+
