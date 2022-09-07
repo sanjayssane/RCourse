@@ -1,0 +1,38 @@
+subjid,sex,trtcd,trt,age,height,race,Completed_study,Reason_for_discont
+001-001,F,1,Placebo,46,165,Asian,Y,
+001-002,M,2,XYZW 5 mg,27,165,Black or African American,Y,
+001-003,M,3,XYZW 10 mg,33,162,American Indian or Alaska Native,Y,
+001-004,F,4,XYZW 50 mg,43,167,Black or African American,Y,
+001-005,M,1,Placebo,41,174,Native Hawaiian or Other Pacific Islander,Y,
+001-006,F,2,XYZW 5 mg,37,174,Asian,Y,
+001-007,F,3,XYZW 10 mg,39,170,Black or African American,Y,
+001-008,M,4,XYZW 50 mg,40,168,Asian,,
+001-009,F,3,XYZW 10 mg,34,170,American Indian or Alaska Native,Y,
+001-010,F,3,XYZW 10 mg,24,169,Native Hawaiian or Other Pacific Islander,Y,
+001-011,M,1,Placebo,26,166,Asian,Y,
+001-012,M,1,Placebo,46,170,Black or African American,N,Adverse Event
+002-001,M,4,XYZW 50 mg,44,170,American Indian or Alaska Native,N,Subject Choice
+002-002,F,2,XYZW 5 mg,26,165,Native Hawaiian or Other Pacific Islander,Y,
+002-003,F,2,XYZW 5 mg,44,165,Asian,Y,
+002-004,F,3,XYZW 10 mg,40,161,Black or African American,Y,
+002-005,M,4,XYZW 50 mg,44,170,White,Y,
+002-006,F,3,XYZW 10 mg,38,165,Native Hawaiian or Other Pacific Islander,Y,
+002-007,M,3,XYZW 10 mg,46,168,Asian,Y,
+002-008,F,4,XYZW 50 mg,45,164,Black or African American,Y,
+002-009,M,1,Placebo,40,167,American Indian or Alaska Native,Y,
+002-010,M,1,Placebo,34,163,Native Hawaiian or Other Pacific Islander,Y,
+002-011,F,4,XYZW 50 mg,32,162,White,N,Pregnancy
+002-012,F,2,XYZW 5 mg,26,167,Black or African American,N,Subject Choice
+003-001,M,2,XYZW 5 mg,42,167,American Indian or Alaska Native,Y,
+003-002,F,2,XYZW 5 mg,45,165,White,Y,
+003-003,F,4,XYZW 50 mg,48,162,Native Hawaiian or Other Pacific Islander,Y,
+003-004,F,2,XYZW 5 mg,41,162,Native Hawaiian or Other Pacific Islander,Y,
+003-005,M,1,Placebo,44,162,Native Hawaiian or Other Pacific Islander,Y,
+003-006,M,1,Placebo,37,174,Other,Y,
+003-007,F,4,XYZW 50 mg,33,174,Other,Y,
+003-008,F,1,Placebo,49,160,Other,Y,
+003-009,M,2,XYZW 5 mg,30,174,Other,Y,
+003-010,M,2,XYZW 5 mg,26,160,Other,Y,
+003-011,F,3,XYZW 10 mg,48,161,Black or African American,N,Lost to follow up
+003-012,M,1,Placebo,31,173,Black or African American,Y,
+003-013,F,1,Placebo,36,164,White,Y,
